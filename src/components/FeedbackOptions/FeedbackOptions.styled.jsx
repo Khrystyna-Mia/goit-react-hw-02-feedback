@@ -20,7 +20,7 @@ const Button = styled.button`
   border: 2px solid #ff0000;
   border-radius: 6px;
 
-  transition: transform 300ms cubic-bezier(0.4, 0, 0.2, 1);
+  transition: transform 200ms cubic-bezier(0.4, 0, 0.2, 1);
 
   &:not(:last-child) {
     margin-right: 20px;
